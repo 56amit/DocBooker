@@ -13,7 +13,7 @@ import earning_icon from './earning_icon.svg'
 import patients_icon from './patients_icon.svg'
 
 
-export const url "https://docbooker-backend-qct4.onrender.com"
+export const url = "https://docbooker-backend-qct4.onrender.com"
 export const assets = {
     add_icon,
     admin_logo,
