@@ -5,7 +5,8 @@ import { toast } from "react-toastify";
 export const AppContext = createContext();
 
 const AppContextProvider = (props) => {
-
+  
+  const url "https://docbooker-backend-qct4.onrender.com"
   const currencySymbol = ' ₹ ' ; 
   const backendUrl = import.meta.env.VITE_BACKEND_URL
 
