@@ -173,7 +173,6 @@ Email: amit760729@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/amit-pandey-04bba325b]
 
-                                                                    ✨ Thank You for Visiting DocBooker! ✨
 
 
 
