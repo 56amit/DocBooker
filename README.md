@@ -24,7 +24,9 @@ Secure API Routes with Middleware (Auth Protection)
 
 Fully Responsive Frontend with TailwindCSS
 
-                                                       Technologies
+  
+                                             
+                                                 
                                                        Frontend:
 
 React.js
