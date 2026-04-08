@@ -22,7 +22,7 @@ Profile Management for Users and Doctors
 
 Secure API Routes with Middleware (Auth Protection)
 
-Fully Responsive Frontend with TailwindCSS
+Fully Responsive Frontend with TailwindCSS...
 
   
                                              
