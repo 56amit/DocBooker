@@ -41,8 +41,7 @@ React Router DOM (for routing)
 
 Context API (global state management)
 
-                                                        Backend:
-
+                                                        Backend:.......
 Node.js
 
 Express.js (server framework)
